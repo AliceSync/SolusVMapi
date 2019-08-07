@@ -16,15 +16,15 @@ if($_GET['p'] != 'log_post' and $_GET['p'] != 'post_reboot'){
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <title>'.$GLOBALS['title'].'</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.7.2/css/amazeui.css">
-        <link rel="stylesheet" href="http://cdn.amazeui.org/amazeui/2.7.2/css/amazeui.min.css">
+        <link rel="stylesheet" href="https://cdn.staticfile.org/amazeui/2.7.2/css/amazeui.css">
+        <link rel="stylesheet" href="https://cdn.staticfile.org/amazeui/2.7.2/css/amazeui.min.css">
         <script src="http://lib.zslm.org/js/jquery/jquery-3.1.1.min.js"></script>
-        <script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.js"></script>
-        <script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.min.js"></script>
-        <script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.ie8polyfill.js"></script>
-        <script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.ie8polyfill.min.js"></script>
-        <script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.widgets.helper.js"></script>
-        <script src="http://cdn.amazeui.org/amazeui/2.7.2/js/amazeui.widgets.helper.min.js"></script>
+        <script src="https://cdn.staticfile.org/amazeui/2.7.2/js/amazeui.js"></script>
+        <script src="https://cdn.staticfile.org/amazeui/2.7.2/js/amazeui.min.js"></script>
+        <script src="https://cdn.staticfile.org/amazeui/2.7.2/js/amazeui.ie8polyfill.js"></script>
+        <script src="https://cdn.staticfile.org/amazeui/2.7.2/js/amazeui.ie8polyfill.min.js"></script>
+        <script src="https://cdn.staticfile.org/amazeui/2.7.2/js/amazeui.widgets.helper.js"></script>
+        <script src="https://cdn.staticfile.org/amazeui/2.7.2/js/amazeui.widgets.helper.min.js"></script>
     </head>
     <body>';
 }
